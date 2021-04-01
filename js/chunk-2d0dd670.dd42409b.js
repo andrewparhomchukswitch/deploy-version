@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0dd670"],{"80df":function(e,n,t){"use strict";t.r(n);var a=t("7a23"),c=Object(a["W"])("data-v-40065786"),d=c((function(e,n,t,c,d,o){return Object(a["y"])(),Object(a["h"])("section")})),o={name:"DepositTab"};o.render=d,o.__scopeId="data-v-40065786";n["default"]=o}}]);
-//# sourceMappingURL=chunk-2d0dd670.dd42409b.js.map
