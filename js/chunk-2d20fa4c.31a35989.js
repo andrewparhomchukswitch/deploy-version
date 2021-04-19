@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20fa4c"],{b503:function(c,e,a){"use strict";a.r(e);var n=a("7a23"),t=Object(n["X"])("data-v-64c76182"),s=t((function(c,e,a,t,s,d){return Object(n["z"])(),Object(n["h"])("div")})),d={name:"ResetPasswordSuccess"};d.render=s,d.__scopeId="data-v-64c76182";e["default"]=d}}]);
-//# sourceMappingURL=chunk-2d20fa4c.31a35989.js.map
