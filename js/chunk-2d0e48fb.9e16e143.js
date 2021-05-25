@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e48fb"],{"916c":function(e,t,o){"use strict";o.r(t);var a=o("7a23"),c={class:"mobile-layout"},n=Object(a["e"])(" mobile-layout ");function u(e,t,o,u,b,i){return Object(a["r"])(),Object(a["d"])("div",c,[n,Object(a["y"])(e.$slots,"default")])}var b={name:"MobileLayout"};b.render=u;t["default"]=b}}]);
+//# sourceMappingURL=chunk-2d0e48fb.9e16e143.js.map
